@@ -143,3 +143,14 @@ input[type='text']:focus {
         padding: 0px 0px;
     }
 }
+
+footer {
+    padding: 10px 10px;
+    text-align: center;
+}
+
+footer p {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: gainsboro;
+}
